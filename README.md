@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
+<img src="https://raw.githubusercontent.com/pengffe/React-learning/master/src/assets/Images/origin.png" width="30%" height="30%" /> 
 <img src="https://raw.githubusercontent.com/pengffe/React-learning/master/src/assets/Images/myBurger.png" width="30%" height="30%" /> 
 <img src="https://raw.githubusercontent.com/pengffe/React-learning/master/src/assets/Images/orderSummary.png" width="30%" height="30%" /> 
 <img src="https://github.com/pengffe/React-learning/blob/master/src/assets/Images/sideDrawer.png" width="30%" height="30%" />
